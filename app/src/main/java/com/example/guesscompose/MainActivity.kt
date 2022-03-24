@@ -103,7 +103,7 @@ fun Gnumber(){
             textAlign = TextAlign.Center,
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(8.dp)
+                .padding(bottom = 100.dp)
 
         )
     }
